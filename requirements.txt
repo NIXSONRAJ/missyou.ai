@@ -1,0 +1,8 @@
+flask
+requests
+langchain-text-splitters
+langchain-community
+sentence-transformers
+faiss-cpu
+PyPDF2
+werkzeug
