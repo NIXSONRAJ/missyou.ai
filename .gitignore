@@ -1,0 +1,16 @@
+# Sensitive Data
+missyou_config.json
+missyou_key.txt
+*.db
+uploads/
+
+# PyInstaller & Build Files
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+.env
